@@ -37,3 +37,7 @@ cp -r proto-spec-generator ~/skills/
 ## 许可
 
 Apache 2.0
+
+## 作者
+
+赖人伟 &nbsp; | &nbsp; [lrw0591@qq.com](mailto:lrw0591@qq.com) &nbsp; | &nbsp; 微信：lrw0591
