@@ -28,6 +28,8 @@
 
 规格文档可直接输入 [prototype-html-pin](https://github.com/wsdlp46/prototype-html-pin) 生成可交互 HTML 原型。
 
+> 完整产品工作流建议搭配 [pm-assistant-lrw](https://github.com/wsdlp46/pm-assistant-lrw) Expert，一站式覆盖 PRD → 方案 → 规格 → 原型。
+
 ## 安装
 
 ```bash
